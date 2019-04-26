@@ -244,16 +244,16 @@ msgid "Crowdin error"
 msgstr "Tuccḍa n Crowdin"
 
 msgid "Uploading translations…"
-msgstr "Asali n tsuqilin…"
+msgstr "Asali n tsuqqilin…"
 
 msgid "&Copy"
 msgstr "&Nɣel"
 
 msgid "Learn more"
-msgstr "Ẓer ugar"
+msgstr "Issin ugar"
 
 msgid "Learn More"
-msgstr "Ẓer ugar"
+msgstr "Issin ugar"
 
 msgid "&Help"
 msgstr "&Tallelt"
